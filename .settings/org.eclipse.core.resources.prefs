@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/es/ubiqua/citaio/GcmIntentService.java=UTF-8
+encoding//src/es/ubiqua/citaio/tasks/CloseSessionAsyncTask.java=UTF-8
+encoding//src/es/ubiqua/citaio/tasks/GetUserAsyncTask.java=UTF-8
+encoding//src/es/ubiqua/citaio/tasks/RecordSessionAsyncTask.java=UTF-8
+encoding//src/es/ubiqua/citaio/ui/MainActivity.java=UTF-8

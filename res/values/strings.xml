@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CitaIO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name_splash_part1">CITA</string>
+    <string name="app_name_splash_part2">.IO</string>
+    <string name="cita_io_start_record">Iniciar grabación</string>
+    <string name="cita_io_stop_record">Finalizar grabación</string>
+    <string name="cita_io_close_session">Finalizar Sesión</string>
+    <string name="cita_io_project_number">266600728870</string>
+    <!-- <string name="cita_io_project_number">1079592104234</string> -->
+    <string name="cita_io_url_debug">https://staging.cita.io</string>
+    <!--<string name="cita_io_url_debug">http://www.frozenbullets.com/cita</string> frozenbullets-->
+    <!--<string name="cita_io_url_release">https://app.cita.io</string>-->
+    <string name="cita_io_api_path">/api/v1/rooms/native_join?q=</string>
+    <string name="cita_io_error_token">La sesión no es válida.</string>
+    <string name="cita_io_loading_session">Se está iniciando la sesión</string>
+    <string name="cita_io_loading_session_video">Esperando a que comience la conferencia.</string>
+    <string name="cita_io_error_connection_subscriber">Error conectando a la suscripción de video.</string>
+    <string name="cita_io_error_connection_publisher">Error emitiendo vídeo.</string>
+    <string name="cita_io_loading_session_caption">Iniciando sesión</string>
+    <string name="cita_io_webcamactivity_title">Sesión iniciada</string>
+    <string name="exit_dialog_title">Salir de Cita.IO</string>
+	<string name="exit_dialog_subtitle">¿Desea abandonar la aplicación?</string>
+	<string name="exit_dialog_option_yes">Si</string>
+	<string name="exit_dialog_option_no">No</string>
+	<string name="debug_token">T1==cGFydG5lcl9pZD00NDY4ODgxMiZzaWc9ZjE5NDFkNjkxYzAzODRmMzI1OGIxMzA4ZjZjYjgzMDY3NTI5NGU1NzpjcmVhdGVfdGltZT0xNDI0MTcxNjMxJm5vbmNlPTAuMzI3MjQxNDk4ODUxMjM5MiZyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTFfTVg0ME5EWTRPRGd4TW41LU1UUXlOREUzTVRZeU9EWXpNbjVvY0VaMGNUazJOMUZoVEhGeWFHRklSblZWUzB0UFdUUi1mZw==</string>
+	<string name="debug_session_id">1_MX40NDY4ODgxMn5-MTQyNDE3MTYyODYzMn5ocEZ0cTk2N1FhTHFyaGFIRnVVS0tPWTR-fg</string>
+</resources>

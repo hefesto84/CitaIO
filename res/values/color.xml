@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="citaio_blue_light">#5FB7CD</color>
+    <color name="citaio_blue_dark">#40A8C3</color>
+    <color name="citaio_black">#000000</color>
+    <color name="citaio_gray">#F2F2F2</color>
+</resources>
